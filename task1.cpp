@@ -1,7 +1,6 @@
 //github repo: https://github.com/nikosnotas/HLS-Homework-2.git
 //High Level Synthesis, Homework 2, Nikolaos Notas 57728, task 1
 #include <iostream>
-#include <cstdlib>
 using namespace std;
  
 /* Function to get number of bits set to 1 of a positive integer */
